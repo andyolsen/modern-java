@@ -1,0 +1,1 @@
+java --module-path out --module demo.moduleB/packageB.Main

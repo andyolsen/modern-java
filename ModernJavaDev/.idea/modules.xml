@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModernJavaDev.iml" filepath="$PROJECT_DIR$/ModernJavaDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.functionals/demo.functionals.iml" filepath="$PROJECT_DIR$/demo.functionals/demo.functionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.lambda/demo.lambda.iml" filepath="$PROJECT_DIR$/demo.lambda/demo.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.methods/demo.methods.iml" filepath="$PROJECT_DIR$/demo.methods/demo.methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.miscApi/demo.miscApi.iml" filepath="$PROJECT_DIR$/demo.miscApi/demo.miscApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.miscCollections/demo.miscCollections.iml" filepath="$PROJECT_DIR$/demo.miscCollections/demo.miscCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.miscLanguage/demo.miscLanguage.iml" filepath="$PROJECT_DIR$/demo.miscLanguage/demo.miscLanguage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.moduleA/demo.moduleA.iml" filepath="$PROJECT_DIR$/demo.moduleA/demo.moduleA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.moduleB/demo.moduleB.iml" filepath="$PROJECT_DIR$/demo.moduleB/demo.moduleB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.moduleC/demo.moduleC.iml" filepath="$PROJECT_DIR$/demo.moduleC/demo.moduleC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.moduleService/demo.moduleService.iml" filepath="$PROJECT_DIR$/demo.moduleService/demo.moduleService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.moduleServiceClient/demo.moduleServiceClient.iml" filepath="$PROJECT_DIR$/demo.moduleServiceClient/demo.moduleServiceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.moduleServiceImpl/demo.moduleServiceImpl.iml" filepath="$PROJECT_DIR$/demo.moduleServiceImpl/demo.moduleServiceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.patternMatching/demo.patternMatching.iml" filepath="$PROJECT_DIR$/demo.patternMatching/demo.patternMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.reactiveStreams/demo.reactiveStreams.iml" filepath="$PROJECT_DIR$/demo.reactiveStreams/demo.reactiveStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.records/demo.records.iml" filepath="$PROJECT_DIR$/demo.records/demo.records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.sealedClasses/demo.sealedClasses.iml" filepath="$PROJECT_DIR$/demo.sealedClasses/demo.sealedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.streams/demo.streams.iml" filepath="$PROJECT_DIR$/demo.streams/demo.streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.switchUsage/demo.switchUsage.iml" filepath="$PROJECT_DIR$/demo.switchUsage/demo.switchUsage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.functionals/solution.functionals.iml" filepath="$PROJECT_DIR$/solution.functionals/solution.functionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.lambda/solution.lambda.iml" filepath="$PROJECT_DIR$/solution.lambda/solution.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.methods/solution.methods.iml" filepath="$PROJECT_DIR$/solution.methods/solution.methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.miscCollections/solution.miscCollections.iml" filepath="$PROJECT_DIR$/solution.miscCollections/solution.miscCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.module.app/solution.module.app.iml" filepath="$PROJECT_DIR$/solution.module.app/solution.module.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.module.helloworld/solution.module.helloworld.iml" filepath="$PROJECT_DIR$/solution.module.helloworld/solution.module.helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.module.lib/solution.module.lib.iml" filepath="$PROJECT_DIR$/solution.module.lib/solution.module.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.records/solution.records.iml" filepath="$PROJECT_DIR$/solution.records/solution.records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.sealedClasses/solution.sealedClasses.iml" filepath="$PROJECT_DIR$/solution.sealedClasses/solution.sealedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.streams/solution.streams.iml" filepath="$PROJECT_DIR$/solution.streams/solution.streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution.switchUsage/solution.switchUsage.iml" filepath="$PROJECT_DIR$/solution.switchUsage/solution.switchUsage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student.functionals/student.functionals.iml" filepath="$PROJECT_DIR$/student.functionals/student.functionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student.lambda/student.lambda.iml" filepath="$PROJECT_DIR$/student.lambda/student.lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student.methods/student.methods.iml" filepath="$PROJECT_DIR$/student.methods/student.methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student.miscCollections/student.miscCollections.iml" filepath="$PROJECT_DIR$/student.miscCollections/student.miscCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student.streams/student.streams.iml" filepath="$PROJECT_DIR$/student.streams/student.streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student.switchUsage/student.switchUsage.iml" filepath="$PROJECT_DIR$/student.switchUsage/student.switchUsage.iml" />
+    </modules>
+  </component>
+</project>

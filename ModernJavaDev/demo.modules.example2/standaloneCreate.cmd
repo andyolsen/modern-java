@@ -1,0 +1,1 @@
+jlink --module-path out;$JAVA_HOME/jmods --add-modules demo.moduleB --output out-standalone

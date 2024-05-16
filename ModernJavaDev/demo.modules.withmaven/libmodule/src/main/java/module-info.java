@@ -1,0 +1,3 @@
+module libmodule {
+    exports packageC;
+}

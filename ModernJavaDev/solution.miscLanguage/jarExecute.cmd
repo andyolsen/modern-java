@@ -1,0 +1,1 @@
+java -cp out-jar\myjar.jar com.osl.Main
